@@ -2,7 +2,7 @@
 
 ## 1. Git を入れる
 
-Git for Windows を公式のページから入れます。
+Git for Windows を公式のページ（https://gitforwindows.org/）から入れます。
 入れたら、ターミナルで `git --version` と打ち、版が表示されることを確かめます。
 
 ## 2. Git の初期設定
